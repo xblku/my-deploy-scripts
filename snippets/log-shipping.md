@@ -1,5 +1,5 @@
 # log shipping
 
-Captured 2024-09-30.
+Captured 2024-10-22.
 
-Context: retention policy silently kept everything for a year.
+Context: the cron job overlapped with itself under load.
