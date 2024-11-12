@@ -1,5 +1,5 @@
 # runner autoscaling
 
-Captured 2024-11-07.
+Captured 2024-11-12.
 
-Context: staging and production diverged on one env var.
+Context: the cron job overlapped with itself under load.
