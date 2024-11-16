@@ -1,5 +1,5 @@
 # container image
 
-Captured 2024-10-31.
+Captured 2024-11-16.
 
-Context: health checks passed while the queue was stuck.
+Context: retention policy silently kept everything for a year.
