@@ -1,5 +1,5 @@
 # Helm chart
 
-Captured 2024-10-16.
+Captured 2024-11-18.
 
-Context: staging and production diverged on one env var.
+Context: build cache was never hit because the lockfile was copied after the sources.
