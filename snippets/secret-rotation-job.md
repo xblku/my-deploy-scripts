@@ -1,5 +1,5 @@
 # secret rotation job
 
-Captured 2024-10-16.
+Captured 2024-12-05.
 
-Context: the cron job overlapped with itself under load.
+Context: readiness probe fired before migrations finished.
