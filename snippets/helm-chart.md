@@ -1,5 +1,5 @@
 # Helm chart
 
-Captured 2024-11-18.
+Captured 2024-12-19.
 
-Context: build cache was never hit because the lockfile was copied after the sources.
+Context: readiness probe fired before migrations finished.
