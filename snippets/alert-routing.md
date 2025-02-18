@@ -1,5 +1,5 @@
 # alert routing
 
-Captured 2024-10-26.
+Captured 2025-02-18.
 
-Context: readiness probe fired before migrations finished.
+Context: log volume tripled after a debug flag stayed on.
