@@ -1,5 +1,5 @@
 # Helm chart
 
-Captured 2024-12-19.
+Captured 2025-02-18.
 
-Context: readiness probe fired before migrations finished.
+Context: the cron job overlapped with itself under load.
