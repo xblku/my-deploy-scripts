@@ -1,5 +1,5 @@
 # backup job
 
-Captured 2024-11-14.
+Captured 2025-02-25.
 
-Context: build cache was never hit because the lockfile was copied after the sources.
+Context: readiness probe fired before migrations finished.
