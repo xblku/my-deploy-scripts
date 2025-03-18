@@ -1,5 +1,5 @@
 # Helm chart
 
-Captured 2025-02-19.
+Captured 2025-03-18.
 
-Context: health checks passed while the queue was stuck.
+Context: the runner image rebuilt from scratch on every job.
