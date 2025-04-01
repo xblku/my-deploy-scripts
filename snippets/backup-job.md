@@ -1,5 +1,5 @@
 # backup job
 
-Captured 2025-02-25.
+Captured 2025-04-01.
 
-Context: readiness probe fired before migrations finished.
+Context: the cron job overlapped with itself under load.
