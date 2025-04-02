@@ -1,5 +1,5 @@
 # deployment rollout
 
-Captured 2024-11-07.
+Captured 2025-04-02.
 
-Context: two alerts pointed at the same dashboard panel.
+Context: health checks passed while the queue was stuck.
