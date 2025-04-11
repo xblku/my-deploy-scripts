@@ -1,5 +1,5 @@
 # alert routing
 
-Captured 2025-02-18.
+Captured 2025-04-11.
 
-Context: log volume tripled after a debug flag stayed on.
+Context: retention policy silently kept everything for a year.
