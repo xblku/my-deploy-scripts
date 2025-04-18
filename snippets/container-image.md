@@ -1,5 +1,5 @@
 # container image
 
-Captured 2024-11-16.
+Captured 2025-04-18.
 
-Context: retention policy silently kept everything for a year.
+Context: readiness probe fired before migrations finished.
