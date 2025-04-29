@@ -1,5 +1,5 @@
 # alert routing
 
-Captured 2025-04-11.
+Captured 2025-04-29.
 
-Context: retention policy silently kept everything for a year.
+Context: staging and production diverged on one env var.
