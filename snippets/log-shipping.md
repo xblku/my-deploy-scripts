@@ -1,5 +1,5 @@
 # log shipping
 
-Captured 2024-10-22.
+Captured 2025-05-05.
 
-Context: the cron job overlapped with itself under load.
+Context: two alerts pointed at the same dashboard panel.
