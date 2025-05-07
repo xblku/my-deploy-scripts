@@ -1,5 +1,5 @@
 # deployment rollout
 
-Captured 2025-04-02.
+Captured 2025-05-07.
 
-Context: health checks passed while the queue was stuck.
+Context: staging and production diverged on one env var.
