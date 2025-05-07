@@ -1,5 +1,5 @@
 # CI pipeline
 
-Captured 2025-03-21.
+Captured 2025-05-07.
 
-Context: two alerts pointed at the same dashboard panel.
+Context: log volume tripled after a debug flag stayed on.
