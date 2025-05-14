@@ -1,5 +1,5 @@
 # runner autoscaling
 
-Captured 2024-11-12.
+Captured 2025-05-14.
 
-Context: the cron job overlapped with itself under load.
+Context: build cache was never hit because the lockfile was copied after the sources.
