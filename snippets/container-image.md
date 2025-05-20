@@ -1,5 +1,5 @@
 # container image
 
-Captured 2025-04-18.
+Captured 2025-05-20.
 
-Context: readiness probe fired before migrations finished.
+Context: two alerts pointed at the same dashboard panel.
