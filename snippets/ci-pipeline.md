@@ -1,5 +1,5 @@
 # CI pipeline
 
-Captured 2025-05-07.
+Captured 2025-05-22.
 
-Context: log volume tripled after a debug flag stayed on.
+Context: build cache was never hit because the lockfile was copied after the sources.
