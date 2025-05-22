@@ -1,5 +1,5 @@
 # runner autoscaling
 
-Captured 2025-05-14.
+Captured 2025-05-22.
 
-Context: build cache was never hit because the lockfile was copied after the sources.
+Context: the runner image rebuilt from scratch on every job.
