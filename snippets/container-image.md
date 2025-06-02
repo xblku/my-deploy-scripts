@@ -1,5 +1,5 @@
 # container image
 
-Captured 2025-05-20.
+Captured 2025-06-02.
 
-Context: two alerts pointed at the same dashboard panel.
+Context: log volume tripled after a debug flag stayed on.
