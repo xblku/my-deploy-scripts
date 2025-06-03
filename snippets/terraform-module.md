@@ -1,5 +1,5 @@
 # Terraform module
 
-Captured 2025-05-14.
+Captured 2025-06-03.
 
-Context: log volume tripled after a debug flag stayed on.
+Context: the cron job overlapped with itself under load.
