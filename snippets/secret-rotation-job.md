@@ -1,5 +1,5 @@
 # secret rotation job
 
-Captured 2024-12-05.
+Captured 2025-06-23.
 
-Context: readiness probe fired before migrations finished.
+Context: the runner image rebuilt from scratch on every job.
