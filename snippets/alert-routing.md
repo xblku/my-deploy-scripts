@@ -1,5 +1,5 @@
 # alert routing
 
-Captured 2025-04-29.
+Captured 2025-07-11.
 
-Context: staging and production diverged on one env var.
+Context: health checks passed while the queue was stuck.
