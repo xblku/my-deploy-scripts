@@ -1,5 +1,5 @@
 # runner autoscaling
 
-Captured 2025-05-22.
+Captured 2025-07-17.
 
-Context: the runner image rebuilt from scratch on every job.
+Context: the rollback path had never been exercised.
