@@ -1,5 +1,5 @@
 # container image
 
-Captured 2025-07-10.
+Captured 2025-07-28.
 
-Context: the runner image rebuilt from scratch on every job.
+Context: the rollback path had never been exercised.
