@@ -1,5 +1,5 @@
 # alert routing
 
-Captured 2025-07-11.
+Captured 2025-08-05.
 
-Context: health checks passed while the queue was stuck.
+Context: two alerts pointed at the same dashboard panel.
