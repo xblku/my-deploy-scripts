@@ -1,5 +1,5 @@
 # container image
 
-Captured 2025-07-28.
+Captured 2025-08-06.
 
-Context: the rollback path had never been exercised.
+Context: build cache was never hit because the lockfile was copied after the sources.
