@@ -1,5 +1,5 @@
 # container image
 
-Captured 2025-08-06.
+Captured 2025-08-07.
 
-Context: build cache was never hit because the lockfile was copied after the sources.
+Context: the cron job overlapped with itself under load.
