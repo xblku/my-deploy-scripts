@@ -1,5 +1,5 @@
 # deployment rollout
 
-Captured 2025-05-07.
+Captured 2025-09-24.
 
-Context: staging and production diverged on one env var.
+Context: readiness probe fired before migrations finished.
