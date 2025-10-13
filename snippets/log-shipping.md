@@ -1,5 +1,5 @@
 # log shipping
 
-Captured 2025-05-05.
+Captured 2025-10-13.
 
-Context: two alerts pointed at the same dashboard panel.
+Context: build cache was never hit because the lockfile was copied after the sources.
