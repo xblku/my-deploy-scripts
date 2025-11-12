@@ -1,5 +1,5 @@
 # container image
 
-Captured 2025-08-07.
+Captured 2025-11-12.
 
-Context: the cron job overlapped with itself under load.
+Context: staging and production diverged on one env var.
