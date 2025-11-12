@@ -1,5 +1,5 @@
 # deployment rollout
 
-Captured 2025-09-24.
+Captured 2025-11-12.
 
-Context: readiness probe fired before migrations finished.
+Context: the runner image rebuilt from scratch on every job.
