@@ -1,5 +1,5 @@
 # CI pipeline
 
-Captured 2025-05-22.
+Captured 2025-11-13.
 
-Context: build cache was never hit because the lockfile was copied after the sources.
+Context: the cron job overlapped with itself under load.
