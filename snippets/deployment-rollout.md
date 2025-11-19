@@ -1,5 +1,5 @@
 # deployment rollout
 
-Captured 2025-11-12.
+Captured 2025-11-19.
 
-Context: the runner image rebuilt from scratch on every job.
+Context: log volume tripled after a debug flag stayed on.
