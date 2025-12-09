@@ -1,5 +1,5 @@
 # alert routing
 
-Captured 2025-08-05.
+Captured 2025-12-09.
 
-Context: two alerts pointed at the same dashboard panel.
+Context: build cache was never hit because the lockfile was copied after the sources.
