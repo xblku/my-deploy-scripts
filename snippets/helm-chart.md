@@ -1,5 +1,5 @@
 # Helm chart
 
-Captured 2025-11-19.
+Captured 2025-12-16.
 
-Context: retention policy silently kept everything for a year.
+Context: log volume tripled after a debug flag stayed on.
