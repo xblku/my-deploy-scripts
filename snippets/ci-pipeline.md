@@ -1,5 +1,5 @@
 # CI pipeline
 
-Captured 2025-11-13.
+Captured 2025-12-25.
 
-Context: the cron job overlapped with itself under load.
+Context: health checks passed while the queue was stuck.
