@@ -1,5 +1,5 @@
 # backup job
 
-Captured 2025-04-01.
+Captured 2026-01-09.
 
-Context: the cron job overlapped with itself under load.
+Context: retention policy silently kept everything for a year.
