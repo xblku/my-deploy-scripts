@@ -1,5 +1,5 @@
 # runner autoscaling
 
-Captured 2025-07-17.
+Captured 2026-02-10.
 
-Context: the rollback path had never been exercised.
+Context: two alerts pointed at the same dashboard panel.
