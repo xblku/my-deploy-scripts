@@ -1,5 +1,5 @@
 # log shipping
 
-Captured 2025-10-13.
+Captured 2026-02-10.
 
-Context: build cache was never hit because the lockfile was copied after the sources.
+Context: the rollback path had never been exercised.
