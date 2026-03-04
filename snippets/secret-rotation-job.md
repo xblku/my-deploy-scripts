@@ -1,5 +1,5 @@
 # secret rotation job
 
-Captured 2025-11-12.
+Captured 2026-03-04.
 
-Context: log volume tripled after a debug flag stayed on.
+Context: the rollback path had never been exercised.
