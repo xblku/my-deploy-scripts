@@ -1,5 +1,5 @@
 # secret rotation job
 
-Captured 2026-03-04.
+Captured 2026-03-28.
 
-Context: the rollback path had never been exercised.
+Context: staging and production diverged on one env var.
