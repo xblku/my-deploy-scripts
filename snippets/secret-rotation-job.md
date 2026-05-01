@@ -1,5 +1,5 @@
 # secret rotation job
 
-Captured 2026-03-28.
+Captured 2026-05-01.
 
-Context: staging and production diverged on one env var.
+Context: build cache was never hit because the lockfile was copied after the sources.
