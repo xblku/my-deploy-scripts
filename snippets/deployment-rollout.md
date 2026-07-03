@@ -1,5 +1,5 @@
 # deployment rollout
 
-Captured 2025-11-19.
+Captured 2026-07-03.
 
-Context: log volume tripled after a debug flag stayed on.
+Context: retention policy silently kept everything for a year.
