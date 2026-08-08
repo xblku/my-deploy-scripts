@@ -1,5 +1,5 @@
 # runner autoscaling
 
-Captured 2026-02-10.
+Captured 2026-08-08.
 
-Context: two alerts pointed at the same dashboard panel.
+Context: health checks passed while the queue was stuck.
