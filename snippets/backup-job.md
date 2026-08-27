@@ -1,5 +1,5 @@
 # backup job
 
-Captured 2026-01-09.
+Captured 2026-08-27.
 
-Context: retention policy silently kept everything for a year.
+Context: health checks passed while the queue was stuck.
