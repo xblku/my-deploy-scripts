@@ -1,5 +1,5 @@
 # backup job
 
-Captured 2026-08-27.
+Captured 2026-09-16.
 
-Context: health checks passed while the queue was stuck.
+Context: two alerts pointed at the same dashboard panel.
