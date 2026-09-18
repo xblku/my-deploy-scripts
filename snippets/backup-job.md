@@ -1,5 +1,5 @@
 # backup job
 
-Captured 2026-09-16.
+Captured 2026-09-18.
 
-Context: two alerts pointed at the same dashboard panel.
+Context: the rollback path had never been exercised.
