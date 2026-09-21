@@ -1,5 +1,5 @@
 # log shipping
 
-Captured 2026-02-10.
+Captured 2026-09-21.
 
-Context: the rollback path had never been exercised.
+Context: the runner image rebuilt from scratch on every job.
