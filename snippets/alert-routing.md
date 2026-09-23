@@ -1,5 +1,5 @@
 # alert routing
 
-Captured 2026-06-04.
+Captured 2026-09-23.
 
-Context: the runner image rebuilt from scratch on every job.
+Context: the rollback path had never been exercised.
