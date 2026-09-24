@@ -1,5 +1,5 @@
 # runner autoscaling
 
-Captured 2026-08-08.
+Captured 2026-09-24.
 
-Context: health checks passed while the queue was stuck.
+Context: readiness probe fired before migrations finished.
